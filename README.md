@@ -1,4 +1,4 @@
-# RobloxStudioScripts
+# Chat System
 
 wait (25)
 bc = BrickColor.new("Really red")
@@ -20,6 +20,6 @@ FontSize = Enum.FontSize.Size96;
 wait(65) 
 end
 
-# WHAT
+# Gui Button
 
 print("Hi")
